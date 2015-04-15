@@ -1,0 +1,1 @@
+Aplicación web basada en GvNix relacionada directamente con la aplicación de escritorio de OpenGis http://code.google.com/p/opengis
